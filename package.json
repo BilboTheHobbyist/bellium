@@ -1,14 +1,14 @@
 {
-  "name": "Ghostium",
+  "name": "bellium",
   "version": "2.3.2",
-  "description": "A Ghost theme focused on content based on Medium design/ux",
+  "description": "A ghostium-forked theme",
   "url": "http://ghostium.oswaldoacauan.com/",
   "copyright": "2013",
   "license": "MIT",
   "author": {
-    "name": "Oswaldo Acauan",
-    "email": "hello@oswaldoacauan.com",
-    "url": "http://oswaldoacauan.com"
+    "name": "Bilbo The Hobbyist",
+    "email": "74491222+BilboTheHobbyist@users.noreply.github.com",
+    "url": "https://ghost.org"
   },
   "repository": {
     "type": "git",
