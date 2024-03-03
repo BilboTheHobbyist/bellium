@@ -20,7 +20,7 @@
   "keywords": [
     "ghost",
     "blog",
-    "theme",
+    "ghost-theme",
     "medium"
   ],
   "dependencies": {},
@@ -54,6 +54,6 @@
     "test": "grunt --verbose",
     "postinstall": "bundle install && bower install",
     "build": "grunt build",
-    "zip": "cd build; zip -r ../ghostium.zip ./*"
+    "zip": "cd build; zip -r ../bellium.zip ./*"
   }
 }
